@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY loxury/. /usr/share/nginx/html/
+COPY loxury.zip /usr/share/nginx/html/
